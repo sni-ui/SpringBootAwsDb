@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.jdbc.core.RowCallbackHandler'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
